@@ -55,10 +55,10 @@
 
 ```sh
 # Клонирование репозитория
-git clone [URL_РЕПОЗИТОРИЯ]
+git clone git@github.com:kotpavlik/SeminarsMenajement-.git
 
 # Переход в директорию проекта
-cd [ИМЯ_ПРОЕКТА]
+cd SeminarsMenajement-
 
 # Установка зависимостей
 yarn 
